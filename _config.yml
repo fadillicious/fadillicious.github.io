@@ -11,7 +11,7 @@ description:
 url: "https://fadillicious.github.io"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: ""
+baseurl: "/"
 
 # The site cover image on the home page
 image:  assets/images/site-image.jpg
